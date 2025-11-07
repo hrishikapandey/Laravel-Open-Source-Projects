@@ -1,5 +1,5 @@
 <?php
-
+///this is the code for config/database.php
 return [
 
     /*
